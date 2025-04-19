@@ -27,8 +27,8 @@ const NavBar = () => {
                 </ul>
             </div>
             <div className="navbar-end gap-4">
-                <a className="btn bg-[#23BE0A] text-white text-lg work-sans font-semibold rounded-lg">Sign In</a>
-                <a className="btn bg-[#59C6D2] text-white text-lg work-sans font-semibold rounded-lg">Sign Up</a>
+                <a className="btn bg-[#23BE0A] text-white text-sm lg:text-lg work-sans font-semibold rounded-lg">Sign In</a>
+                <a className="btn bg-[#59C6D2] text-white text-sm lg:text-lg work-sans font-semibold rounded-lg">Sign Up</a>
             </div>
         </div>
     );
