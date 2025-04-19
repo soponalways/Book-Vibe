@@ -2,7 +2,7 @@ import React from 'react';
 import Book from '../../Components/Book/Book';
 
 const Books = ({ books }) => {
-    console.log(books);
+    // console.log(books);
     return (
         <div className='mb-24'>
             <h2 className='font-bold text-[#131313] playfair text-3xl lg:text-5xl text-center mb-9'>Books</h2>
